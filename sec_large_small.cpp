@@ -1,3 +1,4 @@
+//code to find second largest number and second smallest number
 #include<bits/stdc++.h>
 using namespace std;
 
